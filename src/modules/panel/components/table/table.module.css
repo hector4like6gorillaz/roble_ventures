@@ -1,0 +1,67 @@
+.container {
+  margin-top: 1rem;
+}
+.container-title {
+  border-bottom-style: solid;
+  border-bottom-color: #e9e9e9;
+  height: 4.625rem;
+  display: grid;
+  grid-template-columns: 20%10%20%35%15%;
+  align-items: center;
+}
+
+.div-check {
+  display: flex;
+  align-items: center;
+  column-gap: 1rem;
+  padding-left: 1rem;
+}
+
+.p-titles {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+.container-element {
+  height: 11.125rem;
+  border-bottom-style: solid;
+  border-bottom-color: #e9e9e9;
+  display: grid;
+  grid-template-columns: 20%10%20%35%15%;
+  align-items: center;
+}
+
+.avatar-container {
+  width: 2.875rem;
+  height: 2.875rem;
+  border-radius: 9999px;
+  background-color: #d9d9d9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar-all {
+  display: flex;
+}
+
+.avatar-contact {
+  padding-left: 0.5rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.div-labels {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+}
+
+.div-Commonalities {
+  display: flex;
+  flex-direction: column;
+  row-gap: 0.5rem;
+}

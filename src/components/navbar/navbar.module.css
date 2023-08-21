@@ -1,0 +1,74 @@
+.container-nav {
+  background-color: #686868;
+  height: 5.563rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 1.75rem;
+  padding-left: 2.813rem;
+}
+
+.img-logo {
+  width: 3.938rem;
+  height: auto;
+}
+.img-g-logo {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.button-loggin {
+  cursor: pointer;
+  height: 3.625rem;
+  width: 14.063rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 0.625rem;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+  border-radius: 0.375rem;
+  border: none;
+}
+.button-loggin:hover {
+  background-color: #dddddd;
+}
+.button-loggin:active {
+  background-color: #ffffff;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  column-gap: 0.75rem;
+}
+.user-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.user-name {
+  margin: 0;
+  padding: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.75rem;
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.options-drop-container {
+  width: 100%;
+  position: relative;
+}
+.options-drop {
+  position: absolute;
+  width: 208px;
+  height: auto;
+  top: 0.5rem;
+  right: 0;
+  border: 1px solid #545f71;
+  border-radius: 0.375rem;
+  background-color: #ffffff;
+  overflow: hidden;
+}

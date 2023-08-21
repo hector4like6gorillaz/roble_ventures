@@ -1,0 +1,36 @@
+.Father-class {
+  position: relative;
+  width: fit-content;
+}
+
+.Son-class {
+  position: absolute;
+  width: 100%;
+  z-index: 5;
+}
+
+.p-option {
+  font-size: 1rem;
+  color: #545f71;
+  white-space: nowrap;
+}
+
+.p-full {
+  width: 100%;
+}
+
+.div-selected {
+  width: 6rem;
+  height: 3rem;
+  padding-inline: 0.719rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.div-full {
+  width: 100%;
+}
+.div-selected:hover {
+  background-color: #EEF1F4;
+}

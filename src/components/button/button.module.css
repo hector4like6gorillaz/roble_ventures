@@ -1,0 +1,59 @@
+.button-size-medium {
+  height: 3.625rem;
+}
+
+.button-size-small {
+  height: 3rem;
+}
+
+.button-style-black {
+  cursor: pointer;
+  background-color: #545f71;
+  border-radius: 0.375rem;
+  color: #ffffff;
+  font-family: "Space Grotesk", sans-serif;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 0.625rem;
+}
+.button-style-black:hover {
+  background-color: #212f77;
+}
+.button-style-black:active {
+  background-color: #545f71;
+}
+.button-style-white {
+  cursor: pointer;
+  border: 2px solid #000000;
+  background-color: #ffffff;
+  border-radius: 0.375rem;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Space Grotesk", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 0.625rem;
+}
+.button-style-white:hover {
+  background-color: #d9d9d9;
+}
+.button-style-white:active {
+  background-color: #ffffff;
+}
+
+.large {
+  width: 13.188rem;
+}
+
+.fit-padding {
+  padding-inline: 1rem;
+}
+
+.fit-content {
+  padding-inline: 1rem;
+  width: fit-content;
+  font-weight: 700;
+}

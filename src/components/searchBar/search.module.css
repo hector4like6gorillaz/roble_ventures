@@ -1,0 +1,33 @@
+.container {
+  width: 21.563rem;
+  height: 3rem;
+  border: 1px solid #545f71;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  padding-inline: 1rem;
+  position: relative;
+}
+
+.input-search {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.icon-filter {
+  width: 1.5rem;
+  height: 1.5rem;
+  cursor: pointer;
+}
+
+.p-title {
+  font-family: "Space Grotesk", sans-serif;
+  position: absolute;
+  padding: 0;
+  margin: auto;
+  bottom: 110%;
+  left: 0;
+  font-size: 0.875rem;
+}

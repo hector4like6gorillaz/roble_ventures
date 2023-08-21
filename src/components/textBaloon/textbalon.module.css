@@ -1,0 +1,31 @@
+.container {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.balloon-body {
+  background-color: #ffffff;
+  width: 62.438rem;
+  height: auto;
+  border-radius: 0.5rem;
+  padding-bottom: 37px;
+  padding-top: 37px;
+}
+.balloon-arrow {
+  background-color: transparent;
+  border-right: 1.5315rem solid #ffffff;
+  border-top: 1rem solid #ffffff;
+  border-left: 1.5315rem solid transparent;
+  border-bottom: 1rem solid transparent;
+}
+
+.p-text {
+  padding: 0;
+  margin: 0;
+  font-size: 1.863rem;
+  font-weight: 700;
+  font-family: "Space Grotesk", sans-serif;
+  text-align: center;
+}

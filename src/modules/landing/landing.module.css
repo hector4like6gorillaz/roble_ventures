@@ -1,0 +1,27 @@
+.container-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 7.625rem;
+}
+.p-title {
+  color: #ffffff;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+
+.chevron-icon {
+  width: 0.875rem;
+  height: 0.875rem;
+}
+
+.buttons-div {
+  display: flex;
+  column-gap: 1.25rem;
+}
+
+.img-three {
+  width: 20.188rem;
+  height: 19.563;
+}

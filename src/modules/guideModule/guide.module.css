@@ -1,0 +1,96 @@
+.img-three {
+  width: 14rem;
+  height: 13.563rem;
+}
+
+.img-csv {
+  width: 29.438rem;
+  height: 18.125rem;
+}
+
+.div-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 12.313rem;
+  row-gap: 2.75rem;
+}
+.div-content-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 14.863rem;
+  row-gap: 2.75rem;
+}
+.div-content-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 14.663rem;
+  row-gap: 2.75rem;
+}
+
+.hi-p {
+  padding: 0;
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-family: "Space Grotesk", sans-serif;
+  text-align: center;
+}
+
+.hi-p {
+  padding: 0;
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-family: "Space Grotesk", sans-serif;
+  text-align: center;
+}
+
+.chevron-icon {
+  width: 0.875rem;
+  height: 0.875rem;
+}
+
+.p-upload {
+  margin: 0;
+  padding: 0;
+  font-family: "Space Grotesk", sans-serif;
+  color: #ffffff;
+  font-size: 2.063rem;
+  text-align: center;
+}
+
+.div-cards-container {
+  display: flex;
+  column-gap: 1.75rem;
+}
+.card-small {
+  background-color: #eef1f4;
+  width: 16.563rem;
+  height: 18.125rem;
+  border: 3px solid #545f71;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.p-name {
+  margin: 0;
+  padding: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 600;
+  color: #000;
+  font-size: 2.063rem;
+}
+
+.p-subtitle {
+  margin: 0;
+  padding: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 600;
+  color: #000;
+  font-size: 1.063rem;
+}
